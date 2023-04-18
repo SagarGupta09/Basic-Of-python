@@ -1,3 +1,4 @@
+#Input a number and display in words
 n1 = input("Enter your numbers: ")
 l = list(n1)
 l1 = len(l)
